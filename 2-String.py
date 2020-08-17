@@ -1,0 +1,12 @@
+text = 'I Love Coding with Python'
+print(text)
+print('python' in text)
+print(len(text))
+print(text.find('i'))
+print(text.replace('Love', 'Love very much'))
+print(text.upper())
+print(text.lower())
+print(text.capitalize())
+print(text.title())
+print(text.count('Love'))
+print(text.split())
